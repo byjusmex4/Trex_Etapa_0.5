@@ -21,7 +21,7 @@ function setup(){
 
 
 function draw(){
-  //Dar color al fondo.
+  //establecer color de fondo.
   background("white");
   
   //cargar la posición Y del Trex
